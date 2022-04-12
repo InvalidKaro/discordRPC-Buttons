@@ -1,0 +1,15 @@
+{
+	"client-id": "enter your client id here",
+	"large-image": null,
+	"large-image-text": null,
+	"small-image": null,
+	"small-image-text": null,
+	"details": null,
+	"state": null,
+	"button": true,
+	"start_time": 0,
+	"buttons": [
+		{"label": "Check this out!" , "url": "https://github.com/Atidipt123/discord-custom-rich-presence/"}
+		
+	]
+}
