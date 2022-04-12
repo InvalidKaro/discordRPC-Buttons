@@ -9,7 +9,7 @@
 	"button": true,
 	"start_time": 0,
 	"buttons": [
-		{"label": "Check this out!" , "url": "https://github.com/Atidipt123/discord-custom-rich-presence/"}
+		{"label": "Check this out!" , "url": "https://github.com/InvalidKaro/discordRPC-Buttons/edit/main/discordRPC/settings.json"}
 		
 	]
 }
